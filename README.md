@@ -70,7 +70,7 @@ TrackMeds/
 ![Home Page](./client/src/assets/hero.png)
 
 ### 📚 Features 
-![Features](./client/src/assets/feature.png)
+![Features](./client/src/assets/features.png)
 
 ### 🩺 Dashboard 
 ![Dashboard](./client/src/assets/dashboard.png)
