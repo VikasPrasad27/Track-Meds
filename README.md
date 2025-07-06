@@ -18,6 +18,7 @@ TrackMeds is a secure, responsive, and progressive web app (PWA) built using the
 - 📱 **Progressive Web App** – Installable, offline-capable, and mobile-friendly
 - 💡 **Interactive UI** – Built with Tailwind CSS & Framer Motion for smooth animations
 - 🌐 **Responsive Design** – Works seamlessly across desktop, tablet, and mobile
+- 🤖 **AI MedBot** - Get information about your medicine its usage, side-efects, etc.
 
 ---
 
