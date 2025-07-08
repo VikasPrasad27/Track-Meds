@@ -3,7 +3,7 @@
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-informational?style=flat-square&logo=mongodb&logoColor=white&color=4db33d)]()
 [![PWA Enabled](https://img.shields.io/badge/PWA-Yes-blueviolet?style=flat-square&logo=pwa&logoColor=white)]()
 
-TrackMeds is a secure, responsive, and progressive web app (PWA) built using the **MERN Stack** that helps individuals and families **manage their medical records**, prescriptions, appointment reminders, and health reports—all in one place.
+TrackMeds is a secure, responsive, and progressive web app (PWA) built using the **MERN Stack** that helps individuals and families **manage their medical records**, prescriptions, appointment reminders, and health reports—all in one place and search about the medicine using MedBot.
 
 ---
 
@@ -88,7 +88,6 @@ TrackMeds/
 ### 🌟 Future Enhancements
 - Export records as PDF
 - Overall Insights 
-- AI suggestions for medication safety
 
 ### 🙋‍♂️ Author
 Made with ❤️ by Vikas Prasad
